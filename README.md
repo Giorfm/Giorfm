@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as a Frontend Developer and AI Engineer. My development stack includes Python and JavaScript.
+I currently study Artificial Intelligence. My development stack includes Python and JavaScript.
 
 I am currently focused on Machine Learning and applying it to practical projects. My main project is bungkus.in, a platform designed to connect food shops with customers to reduce food waste.
 
